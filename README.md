@@ -7,5 +7,5 @@ Current version of SimplySql: 1.5.1
 |---|---|
 |MySql | v8.0.12 |
 |Oracle | v18.3.0 |
-|Npgsql (PostGres) | v3.2.7 |
+|Npgsql (PostGres) | v4.0.2 |
 |SQLite | v1.0.109.1 |
