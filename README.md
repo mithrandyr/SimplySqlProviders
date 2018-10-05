@@ -1,7 +1,7 @@
 ## SimplySqlProviders
 This is a repo used to pull from Nuget the packages necessary for the SimplySql Providers.
 
-Current version of SimplySql: 1.5.1
+Current version of SimplySql: [![Powershell Gallery](https://img.shields.io/powershellgallery/v/SimplySql.svg)](https://www.powershellgallery.com/packages/SimplySql/)
 
 | Provider | Version |
 |---|---|
